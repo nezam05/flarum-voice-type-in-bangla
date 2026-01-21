@@ -1,5 +1,5 @@
 {
-    "name": "nezam05/flarum-speech-to-text",
+    "name": "nezam05/flarum-voice-type-in-bangla",
     "description": "Adds Bangla Voice Typing support",
     "version": "0.1.0",
     "type": "flarum-extension",
