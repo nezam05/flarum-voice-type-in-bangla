@@ -1,0 +1,21 @@
+{
+    "name": "nezam05/flarum-speech-to-text",
+    "description": "Adds Bangla Voice Typing support",
+    "version": "0.1.0",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+      "flarum/core": "^1.8"
+    },
+    "extra": {
+      "flarum-extension": {
+        "title": "Speech to Text (Bengali)",
+        "category": "feature",
+        "icon": {
+          "name": "fas fa-microphone",
+          "backgroundColor": "#007bff",
+          "color": "#fff"
+        }
+      }
+    }
+  }
